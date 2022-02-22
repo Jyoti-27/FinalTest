@@ -3,7 +3,7 @@
 - Pandas
 - Seaborn
 - Matplotlib
-
+- Jupyter Notebook
 
 # How to run the code in your local machine
 For Test-Q-1,2,3 File
