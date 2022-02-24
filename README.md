@@ -5,7 +5,7 @@
 - Matplotlib
 - Jupyter Notebook
 
-# How to run the code in your local machine
+# Which steps are included in it?
 For Test-Q-1,2,3 File
 
 - Step1: Initialization of the lists to store the extracted data
@@ -22,4 +22,8 @@ For Test-Q-1,2,3 File
 
 For Test-Q-4 File
 - Same Steps are followed for this file(Test-Q-4 ) as above file.
+
+
+# How to run the code in your local machine?
+- After processing all above steps on jupyter notebook we have to run by using ctrl+enter for displaying final output.
 
